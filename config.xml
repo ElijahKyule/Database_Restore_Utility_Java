@@ -1,0 +1,9 @@
+<?xml version="1.0"?>   
+<mpanzi>
+    <database>  
+        <dbname></dbname>  
+        <dbuser></dbuser>  
+        <dbpassword></dbpassword>  
+        <utilitypassword></utilitypassword>  
+    </database>
+</mpanzi>   
